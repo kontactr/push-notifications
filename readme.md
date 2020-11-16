@@ -1,6 +1,6 @@
-# push notifications flow
+# push notification's flow
 
-Sample example of custom push notification flow
+Sample example of push notification's flow
 
 ## Client mono repo
 
